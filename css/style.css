@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+#canvas {
+    background-image: url("../res/bg.jpg");
+    background-repeat: repeat;
+}
